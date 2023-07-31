@@ -47,7 +47,7 @@
 	"ads": {
 		"ad_status": true,
 		"main_ads": "admob",
-		"backup_ads":"none",
+		"backup_ads":"wortise",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111", 
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712", 
