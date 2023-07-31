@@ -15,32 +15,32 @@
 
 	"menus": [
 		{
-			"name": "Home",
+			"name": "ပွဲစဉ်များ",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png", 
 			"url": "https://www.burmio.com/?app=1",
 			"url_dark": "https://www.burmio.com/?app=1"
 		},
 		{
-			"name": "Portfolio",
+			"name": "ဂိုးရလဒ်များ",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png", 
-			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
+			"url": "https://www.burmio.com/p/livescore.html",
+			"url_dark": "https://www.burmio.com/p/livescore.html"
 		},
 		{
-			"name": "Testimonials",
+			"name": "တီဗီချန်နယ်များ",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png", 
-			"url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
+			"url": "https://www.burmio.com/",
+			"url_dark": "https://www.burmio.com/"
 		},
 		{
-			"name": "Contact us",
+			"name": "Highlights",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png", 
-			"url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+			"url": "https://www.burmio.com/search/label/Highlights?&max-results=20",
+			"url_dark": "https://www.burmio.com/search/label/Highlights?&max-results=20"
 		}
 	],
 
@@ -74,11 +74,11 @@
 		"ironsource_app_key": "85460dcd",
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
-		"wortise_app_id": "test-app-id",
+		"wortise_app_id": "f66093b2-cacd-42e3-a05b-7fed05231302",
 		"wortise_banner_ad_unit_id": "test-banner",
 		"wortise interstitial_ad_unit_id": "test-interstitial",
 		"wortise_native_ad_unit_id": "test-native",
-		"wortise_app_open_ad_unit_id": "test-app-open",
+		"wortise_app_open_ad_unit_id": "af29f3b0-3ca0-49d4-bf1c-8626684f12fd",
 		"interstitial_ad_interval_on_drawer_menu": 3,
 		"interstitial_ad_interval_on_web_page_link": 5,
 		"native_ad_style_drawer_menu":"medium",
